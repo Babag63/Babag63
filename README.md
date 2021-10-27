@@ -8,16 +8,3 @@
 Babag63/Babag63 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 You can click the Preview link to take a look at your changes.
 --->
-```javascript
-function fancyAlert(arg) {
-  if(arg) {
-    $.facebox({div:'#foo'})
-  }
-}
-```
-def foo():
-    if not bar:
-        return True
-#1
-mojombo#1
-mojombo/github-flavored-markdown#1
