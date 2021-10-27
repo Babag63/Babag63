@@ -18,3 +18,6 @@ function fancyAlert(arg) {
 def foo():
     if not bar:
         return True
+#1
+mojombo#1
+mojombo/github-flavored-markdown#1
